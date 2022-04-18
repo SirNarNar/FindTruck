@@ -1,0 +1,29 @@
+body {background-image: url("hackerman.jpg"); color:greenyellow;}
+h1,h2 { background-color: black;
+    text-align: center;
+    border: 2px solid green;
+    padding: 10px;}
+table {border-style: solid; 
+       border-collapse: collapse;
+       margin-left: 5%;
+       margin-right: 5%;
+       table-layout: fixed;}
+th {padding: 5px; 
+    text-align: center; 
+    border-style: solid hidden double hidden; 
+    background-color: LightGray;}
+td,td {padding: 5px; 
+       border-style: solid hidden solid hidden;}
+.right {border-right: solid;
+        text-align: right;}
+.left {border-left: solid;}
+.even {background-color: LightGray;}
+.red {color: red; 
+      border-color: black;}
+.green {color: green; 
+        border-color: black;}
+h3 {text-align: center;}
+.fieldset {border-color: green; background-color: black;}
+.label {font-size: 200%;}
+.box {font-size: 150%; max-width: 200px; background-color: black; border-color: green; color:greenyellow;}
+.button {font-size: 100%; background-color: black; color: greenyellow;}
